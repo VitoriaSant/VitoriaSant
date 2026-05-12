@@ -1,12 +1,12 @@
 ### Seja bem vindo 👋
 
-<img alt="NodeJS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/black/NodeJS.svg">
-<img alt="Vue" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/black/Vue.svg">
-<img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/black/Typescript.svg">
-<img alt="Javascript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/black/Javascript.svg">
-<img alt="NestJS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/black/NestJS.svg">
-<img alt="ExpressJS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/black/ExpressJS.svg">
-<img alt="Cypress" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/black/Cypress.svg">
+<img alt="NodeJS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
+<img alt="Vue" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Vue.svg">
+<img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
+<img alt="Javascript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
+<img alt="NestJS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NestJS.svg">
+<img alt="ExpressJS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/ExpressJS.svg">
+<img alt="Cypress" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Cypress.svg">
 
 ##
  
