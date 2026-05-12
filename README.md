@@ -1,12 +1,12 @@
 ### Seja bem vindo 👋
 
-<img alt="NodeJS" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
-<img alt="Vue" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
-<img alt="Typescript" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
-<img alt="Javascript" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
-<img alt="NestJS" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
-<img alt="ExpressJS" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
-<img alt="Cypress" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
+<img alt="NodeJS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
+<img alt="Vue" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
+<img alt="Typescript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
+<img alt="Javascript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
+<img alt="NestJS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
+<img alt="ExpressJS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
+<img alt="Cypress" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
 
 ##
  
