@@ -1,5 +1,13 @@
 ### Seja bem vindo 👋
 
+<img alt="NodeJS" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
+<img alt="Vue" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
+<img alt="Typescript" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
+<img alt="Javascript" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
+<img alt="NestJS" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
+<img alt="ExpressJS" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
+<img alt="Cypress" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
+
 ##
  
 <div>
