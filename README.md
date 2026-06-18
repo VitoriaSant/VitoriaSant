@@ -6,7 +6,6 @@
  <img alt="Javascript" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Javascript.svg">
  <img alt="NestJS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/NestJS.svg">
  <img alt="ExpressJS" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/ExpressJS.svg">
- <img alt="Cypress" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Cypress.svg">
 </div>
 
 ##
